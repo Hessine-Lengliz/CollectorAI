@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae4ca232a17910642890627b735ed80c, type: 3}
+  m_Name: ConcreteFootsteps
+  m_EditorClassIdentifier: 
+  materialName: Concrete
+  footstepSounds:
+  - {fileID: 8300000, guid: f263e57f4631e1c4ebfea6c008bc72de, type: 3}
+  - {fileID: 8300000, guid: 477974a5c7caf2e408b38993d11872eb, type: 3}
+  - {fileID: 8300000, guid: 6d0cd47a967cf0044afd3243054805be, type: 3}
+  - {fileID: 8300000, guid: 4ad492f91cd79a444a1361844f89fa8f, type: 3}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae4ca232a17910642890627b735ed80c, type: 3}
+  m_Name: WoodFootsteps
+  m_EditorClassIdentifier: 
+  materialName: Wood
+  footstepSounds:
+  - {fileID: 8300000, guid: 58237ecef14499949bb4dcfdb46d3365, type: 3}
+  - {fileID: 8300000, guid: de0bacbf609ce314ab7eeedbdda9e92c, type: 3}
+  - {fileID: 8300000, guid: 35fc108d3dee5f742a2d991191795366, type: 3}
+  - {fileID: 8300000, guid: 502f47854149bf249b31c3c08369fd0d, type: 3}

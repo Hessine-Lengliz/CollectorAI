@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae4ca232a17910642890627b735ed80c, type: 3}
+  m_Name: FabricFootsteps
+  m_EditorClassIdentifier: 
+  materialName: Fabric
+  footstepSounds:
+  - {fileID: 8300000, guid: 26f99e98f1473de46853271dd8ed7947, type: 3}
+  - {fileID: 8300000, guid: fe5eeb662f2bfd648b5e3dde34750d33, type: 3}
+  - {fileID: 8300000, guid: 429e3f3945e28c048b41c361589ffed4, type: 3}
+  - {fileID: 8300000, guid: bd7423eb57a953f4783a2dd7a7958bdf, type: 3}
