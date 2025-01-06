@@ -1,4 +1,4 @@
-Collector AI 🧰🤖📺
+##Collector AI 🧰🤖📺
 Collector AI is an interactive and competitive AI-driven game where three distinct agents, each utilizing a unique algorithm (A*, Ad-Hoc, and Monte Carlo Tree Search), compete to collect the most trash in a complex, danger-filled environment. This game is a fusion of artificial intelligence, strategy, and dynamic challenges.
 
 🔧 About the Game
