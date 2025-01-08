@@ -63,10 +63,12 @@ In **Collector AI**, players observe and engage with three AI agents as they nav
 
 ## 📸 Screenshots / GIF
 
-![CollectorAI1](./Imgs/CollectorAI1.png)
-![CollectorAI2](./Imgs/CollectorAI2.png)
-![CollectorAI3](./Imgs/CollectorAI3.png)
-![CollectorAI_GIF](./Imgs/CollectorAI.gif)
+![CollectorAI1](./Imgs/collector1.png)
+![CollectorAI2](./Imgs/collector2.png)
+![CollectorAI3](./Imgs/collector3.png)
+![CollectorAI3](./Imgs/collector4.png)
+![CollectorAI3](./Imgs/collector5.png)
+
 
 ---
 
